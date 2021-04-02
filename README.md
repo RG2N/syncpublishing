@@ -5,7 +5,6 @@ Yes, this is the official github of the sync-publishing website.
 # Credits:
 
 ## Developer:
-
 RG2N
 
 Jbablestime
@@ -17,6 +16,7 @@ RG2N
 
 ## Host:
 Netlify
+
 Freenom
 
 ## Games:
