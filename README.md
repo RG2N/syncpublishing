@@ -5,8 +5,11 @@ Yes, this is the official github of the sync-publishing website.
 # Credits:
 
 ## Developer:
+
 RG2N
+
 Jbablestime
+
 0xJB
 
 ## CSS Designer:
